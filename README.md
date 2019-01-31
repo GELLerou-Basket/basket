@@ -15,30 +15,4 @@
 
 Η κατασκευή θα γίνει από την ομάδα των μαθητών σε μακέτα, στο στιλ επιτραπέζιου παιχνιδιού, ενώ μπορεί να υπάρξει υλοποίηση της ιδέας στο φυσικό κόσμο στο μέλλον.
 
-Αποθετήριο στο GitHub του έργου: https://github.com/GELLerou-Basket/basket
-
-Ενδεικτικός κατάλογος - κόστος υλικών
-
-1 arduino Mega 2560 Rev3 - 19,90 euros
-
-1 3.5 inch TFT LCD screen Module for Arduino MEGA 2560 - 14 euros
-
-1 Breadboard Full Size 830 Tie Points - 4 euros
-
-1 DS3231 Real Time Clock - 2 euros
-
-Jumber wires (Male to Male και Male to Female) - 7 euros
-
-6 micro switches με μακρύ λαμάκι - 1,36 euros / τεμ.
-
-1 Rocker switch On - Off - 0,50 euros
-
-1 μετασχηματιστής switching 3v - 12v, 1200mA - 8 euros
-
-1 buzzer 5v - 0,40 euros
-
-4 push buttons Bi-Stable - 0,60 euros / τεμ.
-
-5 leds RGB clear των 5mm - 0,65 euros / τεμ.
-
-Συνολικό κόστος : Περίπου 60 ευρώ.
+Ενδεικτικός κατάλογος - κόστος υλικών στο αρχείο "εξοπλισμός.docx".
